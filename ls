@@ -1,1 +1,1 @@
-gandu
+chutiya=gandu
